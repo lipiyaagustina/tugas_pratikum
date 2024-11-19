@@ -2,7 +2,7 @@
 
 PRAKTIKUM 1
 
-1. ![gif](assets/images/1.gif)
+![masterPlan](assets/1.gif)
 
 Penjelasan: Membuat todolist sesuai langkah pada praktikum
 
